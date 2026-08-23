@@ -1,0 +1,6 @@
+{
+  "name": "HansMedia",
+  "description": "Premium offline audio and video media player with Nepal Studio customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
